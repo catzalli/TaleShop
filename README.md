@@ -31,9 +31,9 @@ Additionally, TaleShop fires [Events](docs/EVENTS.md) that your plugin can liste
 Add TaleShop as a dependency in your `manifest.json`:
 
 ```json
-{
-  "Dependencies": ["AselStudios:TaleShop"]
-}
+  "Dependencies": {
+    "AselStudios:TaleShop": "*"
+  }
 ```
 
 Then access the API from your plugin code:
