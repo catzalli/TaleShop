@@ -1,6 +1,6 @@
 # TaleShop Developer API
 
-[Download here](https://repo.aselstudios.com/#/releases/org/aselstudios/TaleShopAPI)
+[Maden/Gradle/Download](https://repo.aselstudios.com/#/releases/org/aselstudios/TaleShopAPI)
 
 A comprehensive API for integrating with TaleShop — the server-side shop and auction house plugin for Hytale.
 
